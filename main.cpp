@@ -14,7 +14,7 @@ int main()
   cout<<"delete "<<endl; 
   //a.seacrh(22);
   //a.seacrh(3);
-  a.del(2);
+  a.del(6);
   a.print();
   //a.del(62);
   system("pause");
